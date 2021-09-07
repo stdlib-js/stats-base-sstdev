@@ -233,6 +233,25 @@ console.log( v );
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/stats/base/dstdev`][@stdlib/stats/base/dstdev]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array.</span>
+-   <span class="package-name">[`@stdlib/stats/base/snanstdev`][@stdlib/stats/base/snanstdev]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a single-precision floating-point strided array ignoring NaN values.</span>
+-   <span class="package-name">[`@stdlib/stats/base/stdev`][@stdlib/stats/base/stdev]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a strided array.</span>
+-   <span class="package-name">[`@stdlib/stats/base/svariance`][@stdlib/stats/base/svariance]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array.</span>
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -297,6 +316,18 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [@neely:1966a]: https://doi.org/10.1145/365719.365958
 
 [@schubert:2018a]: https://doi.org/10.1145/3221269.3223036
+
+<!-- <related-links> -->
+
+[@stdlib/stats/base/dstdev]: https://github.com/stdlib-js/stats-base-dstdev
+
+[@stdlib/stats/base/snanstdev]: https://github.com/stdlib-js/stats-base-snanstdev
+
+[@stdlib/stats/base/stdev]: https://github.com/stdlib-js/stats-base-stdev
+
+[@stdlib/stats/base/svariance]: https://github.com/stdlib-js/stats-base-svariance
+
+<!-- </related-links> -->
 
 </section>
 
