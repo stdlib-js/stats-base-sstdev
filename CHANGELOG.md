@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-30)
+## Unreleased (2025-05-08)
+
+<section class="features">
+
+### Features
+
+-   [`3c04537`](https://github.com/stdlib-js/stdlib/commit/3c045376b0079bd51c2a60ff690ab25f5c178d1a) - add add C ndarray interface and refactor implementation for `stats/base/sstdev` [(#6930)](https://github.com/stdlib-js/stdlib/pull/6930)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`3c04537`](https://github.com/stdlib-js/stdlib/commit/3c045376b0079bd51c2a60ff690ab25f5c178d1a) - **feat:** add add C ndarray interface and refactor implementation for `stats/base/sstdev` [(#6930)](https://github.com/stdlib-js/stdlib/pull/6930) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`8e9e556`](https://github.com/stdlib-js/stdlib/commit/8e9e556cbd76873f3418d4b999f1c2f125282a0d) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`099a20d`](https://github.com/stdlib-js/stdlib/commit/099a20d177062b4d44568ce283f14d391227cfa6) - **refactor:** update `stats/base/sstdev` native addon from C++ to C [(#4507)](https://github.com/stdlib-js/stdlib/pull/4507) _(by Dhruv Arvind Singh)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
@@ -29,11 +40,12 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
 -   Dhruv Arvind Singh
+-   Gururaj Gurram
 -   Philipp Burckhardt
 
 </section>
