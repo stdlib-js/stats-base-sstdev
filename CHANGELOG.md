@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-12)
+## Unreleased (2025-06-07)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`76100b0`](https://github.com/stdlib-js/stdlib/commit/76100b038910770cca2f13dd6e715802e3da756c) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`3c04537`](https://github.com/stdlib-js/stdlib/commit/3c045376b0079bd51c2a60ff690ab25f5c178d1a) - **feat:** add add C ndarray interface and refactor implementation for `stats/base/sstdev` [(#6930)](https://github.com/stdlib-js/stdlib/pull/6930) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`8e9e556`](https://github.com/stdlib-js/stdlib/commit/8e9e556cbd76873f3418d4b999f1c2f125282a0d) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`099a20d`](https://github.com/stdlib-js/stdlib/commit/099a20d177062b4d44568ce283f14d391227cfa6) - **refactor:** update `stats/base/sstdev` native addon from C++ to C [(#4507)](https://github.com/stdlib-js/stdlib/pull/4507) _(by Dhruv Arvind Singh)_
